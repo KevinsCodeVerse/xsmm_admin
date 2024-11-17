@@ -1,0 +1,7 @@
+iframe{width: 100%;}
+.impowerBox {width: 100%};
+.impowerBox .qrcode {width: 80%;margin:auto}
+.impowerBox .title {display: none;}
+.impowerBox .info {width: 100%;}
+.status_icon {display: none  !important}
+.impowerBox .status {text-align: center; width: 80%;}
